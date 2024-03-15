@@ -2,6 +2,7 @@ import { MdBookmarkAdd } from "react-icons/md";
 import PropTypes from "prop-types";
 const Blog = ({ blog, handleAddToBookmarks,handleMarkAsRead }) => {
   const {
+    id,
     title,
     cover,
     author,
@@ -40,7 +41,7 @@ const Blog = ({ blog, handleAddToBookmarks,handleMarkAsRead }) => {
           </span>
         ))}
       </p>
-      <button onClick={() => handleMarkAsRead(reading_time)} className="text-purple-700 font-bold underline">Mark As Read</button>
+      <button onClick={() => handleMarkAsRead(id, reading_time)} className="text-purple-700 font-bold underline">Mark As Read</button>
     </div>
   );
 };
