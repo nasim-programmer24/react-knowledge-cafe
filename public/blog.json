@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "cover": "https://picsum.photos/seed/picsum/400/300",
+      "title": "The Adventure Begins",
+      "author": "Emily Johnson",
+      "author_img": "https://randomuser.me/api/portraits/women/1.jpg",
+      "posted_date": "2024-03-15",
+      "reading-time": "12 minutes",
+      "hashtags": ["adventure", "beginning", "travel"]
+    },
+    {
+      "id": 2,
+      "cover": "https://picsum.photos/seed/picsum/400/300",
+      "title": "Coding Essentials",
+      "author": "Michael Smith",
+      "author_img": "https://randomuser.me/api/portraits/men/2.jpg",
+      "posted_date": "2024-03-14",
+      "reading-time": "20 minutes",
+      "hashtags": ["coding", "programming", "development"]
+    },
+    {
+      "id": 3,
+      "cover": "https://picsum.photos/seed/picsum/400/300",
+      "title": "The Art of Cooking",
+      "author": "Sophia Brown",
+      "author_img": "https://randomuser.me/api/portraits/women/3.jpg",
+      "posted_date": "2024-03-13",
+      "reading-time": "15 minutes",
+      "hashtags": ["cooking", "food", "recipes"]
+    },
+    {
+      "id": 4,
+      "cover": "https://picsum.photos/seed/picsum/400/300",
+      "title": "Photography Tips",
+      "author": "Daniel Miller",
+      "author_img": "https://randomuser.me/api/portraits/men/4.jpg",
+      "posted_date": "2024-03-12",
+      "reading-time": "18 minutes",
+      "hashtags": ["photography", "tips", "camera"]
+    },
+    {
+      "id": 5,
+      "cover": "https://picsum.photos/seed/picsum/400/300",
+      "title": "Healthy Living Guide",
+      "author": "Olivia Taylor",
+      "author_img": "https://randomuser.me/api/portraits/women/5.jpg",
+      "posted_date": "2024-03-11",
+      "reading-time": "25 minutes",
+      "hashtags": ["health", "fitness", "wellness"]
+    },
+    {
+      "id": 6,
+      "cover": "https://picsum.photos/seed/picsum/400/300",
+      "title": "Financial Freedom Handbook",
+      "author": "William Wilson",
+      "author_img": "https://randomuser.me/api/portraits/men/6.jpg",
+      "posted_date": "2024-03-10",
+      "reading-time": "22 minutes",
+      "hashtags": ["finance", "money", "investing"]
+    },
+    {
+      "id": 7,
+      "cover": "https://picsum.photos/seed/picsum/400/300",
+      "title": "Gardening Techniques",
+      "author": "Ella Garcia",
+      "author_img": "https://randomuser.me/api/portraits/women/7.jpg",
+      "posted_date": "2024-03-09",
+      "reading-time": "17 minutes",
+      "hashtags": ["gardening", "plants", "flowers"]
+    },
+    {
+      "id": 8,
+      "cover": "https://picsum.photos/seed/picsum/400/300",
+      "title": "Travel Photography",
+      "author": "James Martinez",
+      "author_img": "https://randomuser.me/api/portraits/men/8.jpg",
+      "posted_date": "2024-03-08",
+      "reading-time": "19 minutes",
+      "hashtags": ["travel", "photography", "explore"]
+    },
+    {
+      "id": 9,
+      "cover": "https://picsum.photos/seed/picsum/400/300",
+      "title": "Yoga for Beginners",
+      "author": "Ava Wilson",
+      "author_img": "https://randomuser.me/api/portraits/women/9.jpg",
+      "posted_date": "2024-03-07",
+      "reading-time": "16 minutes",
+      "hashtags": ["yoga", "meditation", "wellness"]
+    },
+    {
+      "id": 10,
+      "cover": "https://picsum.photos/seed/picsum/400/300",
+      "title": "Self-Care Practices",
+      "author": "Noah Taylor",
+      "author_img": "https://randomuser.me/api/portraits/men/10.jpg",
+      "posted_date": "2024-03-06",
+      "reading-time": "14 minutes",
+      "hashtags": ["selfcare", "mindfulness", "health"]
+    }
+  ]
+  
