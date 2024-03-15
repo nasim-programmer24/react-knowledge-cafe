@@ -6,7 +6,7 @@
       "author": "Emily Johnson",
       "author_img": "https://randomuser.me/api/portraits/women/1.jpg",
       "posted_date": "2024-03-15",
-      "reading-time": "12 minutes",
+      "reading_time": "12 minutes",
       "hashtags": ["adventure", "beginning", "travel"]
     },
     {
@@ -16,7 +16,7 @@
       "author": "Michael Smith",
       "author_img": "https://randomuser.me/api/portraits/men/2.jpg",
       "posted_date": "2024-03-14",
-      "reading-time": "20 minutes",
+      "reading_time": "20 minutes",
       "hashtags": ["coding", "programming", "development"]
     },
     {
@@ -26,7 +26,7 @@
       "author": "Sophia Brown",
       "author_img": "https://randomuser.me/api/portraits/women/3.jpg",
       "posted_date": "2024-03-13",
-      "reading-time": "15 minutes",
+      "reading_time": "15 minutes",
       "hashtags": ["cooking", "food", "recipes"]
     },
     {
@@ -36,7 +36,7 @@
       "author": "Daniel Miller",
       "author_img": "https://randomuser.me/api/portraits/men/4.jpg",
       "posted_date": "2024-03-12",
-      "reading-time": "18 minutes",
+      "reading_time": "18 minutes",
       "hashtags": ["photography", "tips", "camera"]
     },
     {
@@ -46,7 +46,7 @@
       "author": "Olivia Taylor",
       "author_img": "https://randomuser.me/api/portraits/women/5.jpg",
       "posted_date": "2024-03-11",
-      "reading-time": "25 minutes",
+      "reading_time": "25 minutes",
       "hashtags": ["health", "fitness", "wellness"]
     },
     {
@@ -56,7 +56,7 @@
       "author": "William Wilson",
       "author_img": "https://randomuser.me/api/portraits/men/6.jpg",
       "posted_date": "2024-03-10",
-      "reading-time": "22 minutes",
+      "reading_time": "22 minutes",
       "hashtags": ["finance", "money", "investing"]
     },
     {
@@ -66,7 +66,7 @@
       "author": "Ella Garcia",
       "author_img": "https://randomuser.me/api/portraits/women/7.jpg",
       "posted_date": "2024-03-09",
-      "reading-time": "17 minutes",
+      "reading_time": "17 minutes",
       "hashtags": ["gardening", "plants", "flowers"]
     },
     {
@@ -76,7 +76,7 @@
       "author": "James Martinez",
       "author_img": "https://randomuser.me/api/portraits/men/8.jpg",
       "posted_date": "2024-03-08",
-      "reading-time": "19 minutes",
+      "reading_time": "19 minutes",
       "hashtags": ["travel", "photography", "explore"]
     },
     {
@@ -86,7 +86,7 @@
       "author": "Ava Wilson",
       "author_img": "https://randomuser.me/api/portraits/women/9.jpg",
       "posted_date": "2024-03-07",
-      "reading-time": "16 minutes",
+      "reading_time": "16 minutes",
       "hashtags": ["yoga", "meditation", "wellness"]
     },
     {
@@ -96,7 +96,7 @@
       "author": "Noah Taylor",
       "author_img": "https://randomuser.me/api/portraits/men/10.jpg",
       "posted_date": "2024-03-06",
-      "reading-time": "14 minutes",
+      "reading_time": "14 minutes",
       "hashtags": ["selfcare", "mindfulness", "health"]
     }
   ]
